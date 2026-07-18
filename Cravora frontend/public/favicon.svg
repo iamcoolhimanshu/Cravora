@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="cravoraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b4a" />
+      <stop offset="100%" stop-color="#ff2a5f" />
+    </linearGradient>
+  </defs>
+  <!-- Beautiful Food Cloche / Serving Plate -->
+  <path d="M 50 12 C 52.5 12, 53.5 14, 53.5 16 C 53.5 18, 52.5 19, 50 19 C 47.5 19, 46.5 18, 46.5 16 C 46.5 14, 47.5 12, 50 12 Z" fill="url(#cravoraGrad)" />
+  <path d="M 12 65 L 88 65 A 4 4 0 0 1 92 69 L 92 71 A 4 4 0 0 1 88 75 L 12 75 A 4 4 0 0 1 8 71 L 8 69 A 4 4 0 0 1 12 65 Z" fill="url(#cravoraGrad)" />
+  <path d="M 16 61 C 16 35, 31 22, 50 22 C 69 22, 84 35, 84 61 Z" fill="url(#cravoraGrad)" />
+  <path d="M 23 57 C 26 40, 36 29, 50 29 C 64 29, 74 40, 77 57 Z" fill="#ffffff" opacity="0.18" />
+</svg>
